@@ -35,7 +35,7 @@ const customers = [
   {
     'id': 2,
     'image': 'https://www.radiokorea.com/bulletin/data/file/c_talk_entertain/644496677_h725MNu8_3b441ac283041ecef6989eeefc9ed59e.jpg',
-    'name': '한소희',
+    'name': '유민지',
     'gender': '여자',
     'job': '배우',
     'birthday': '981014'
